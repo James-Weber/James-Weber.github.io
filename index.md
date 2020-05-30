@@ -30,7 +30,7 @@ G Thornhill, W Collins, D Olivié, A Archibald, S Bauer, R Checa-Garcia, S Fiedl
 *CRI-HOM: A novel chemical mechanism for simulating Highly Oxygenated Organic Molecules (HOMs) in global chemistry-aerosol-climate models* Royal Society of Chemistry Environmental Chemistry Conference, October 2019
 
 ### Teaching
-I have taughted undergraduate and1$^{st}$ year, 3$^{rd}$ and 4$^{th}$
+I have taughted undergraduate and graduate chemistry courses included first year General Chemistry, third year Atmospheric Chemistry and fourth year Atmospheric Chemistry and Global Change. I have also demonstrated in the first year laboratory classes.
 
-1000 hours experience in A Level, IB and GCSE Maths, Physics and Chemistry and undergraduate and graduate Chemistry, including working with charities The Access Project and Generating Genius. I have taught undergraduate students for 1$^{st}$ year, 3$^{rd}$ and 4$^{th}$ Chemistry courses at Cambridge and have demonstrated in the 1$^{st}$ year laboratory classes.
+I have 1000 hours experience in A Level, IB and GCSE Maths, Physics and Chemistry and university level Chemistry, including working with charities The Access Project and Generating Genius. 
 
