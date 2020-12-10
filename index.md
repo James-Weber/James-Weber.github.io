@@ -9,7 +9,12 @@ I am interested in interactions between the biosphere and climate, mediated via 
 
 I have been involved in the 6th Coupled Model Intercomparison Project (CMIP6) looking at biogeochemcial feedbacks which will contribute to the evidence base used by the IPCC. 
 
+Google Scholar Profile: https://scholar.google.com/citations?user=-ovN9g0AAAAJ&hl=en
+
+
 ### Publications
+
+*Staunton-Sykes, J., Aubry, T. J., Shin, Y. M., Weber, J., Marshall, L. R., Abraham, N. L., Schmidt, A., and Archibald, A.: Co-emission of volcanic sulfur and halogens amplifies volcanic effective radiative forcing*, Atmos. Chem. Phys. Discuss., https://doi.org/10.5194/acp-2020-1110, in review, 2020.
 
 *Limited climate impacts from short-lived climate forcers following emission reductions related to the COVID-19 pandemic*
 J Weber, Y M Shin, J Staunton Sykes, S Archer-Nicholls, N L Abraham and A T Archibald. Geophysical Research Letters. https://doi.org/10.1029/2020GL090326 
@@ -19,12 +24,11 @@ S Archer-Nicholls, JM Weber, NL Abraham, MR Russo, C Knote, PT Griffiths, D Lowe
 (DOI: 10.5194/egusphere-egu2020-18456)
 
 *CRI-HOM: A novel chemical mechanism for simulating Highly Oxygenated Organic Molecules (HOMs) in global chemistry-aerosol-climate models*
-J Weber, A Archibald, P Griffiths, S Archer-Nicholls, T Berndt, M Jenkin, H Gordon, C Knote – Atmospheric Chemistry and Physics (in discussion)
-(DOI: 10.5194/acp-2020-154)
+J Weber, A Archibald, P Griffiths, S Archer-Nicholls, T Berndt, M Jenkin, H Gordon, C Knote – Atmospheric Chemistry and Physics
+https://doi.org/10.5194/acp-20-10889-2020
 
 *Climate-driven chemistry and aerosol feedbacks in CMIP6 Earth system models*
-G Thornhill, W Collins, D Olivié, A Archibald, S Bauer, R Checa-Garcia, S Fiedler, G Folberth, A Gjermundsen, L Horowitz, J-F Lamarque, M Michou, J Mulcahy, P Nabat, V Naik, FM O&amp;apos;Connor, F Paulot, M Schulz, CE Scott, R Seferian, C Smith, T Takemura, S Tilmes, J Weber – Atmospheric Chemistry and Physics (in discussion) (2020) 
-(DOI: 10.5194/acp-2019-1207)
+G Thornhill, W Collins, D Olivié, A Archibald, S Bauer, R Checa-Garcia, S Fiedler, G Folberth, A Gjermundsen, L Horowitz, J-F Lamarque, M Michou, J Mulcahy, P Nabat, V Naik, FM O&amp;apos;Connor, F Paulot, M Schulz, CE Scott, R Seferian, C Smith, T Takemura, S Tilmes, J Weber – Atmospheric Chemistry and Physics (2020) https://doi.org/10.5194/acp-2019-1207,
 
 ### Conference Presentations
 *The Effect on Climate and Atmospheric Composition from non-CO$_2$ Anthropogenic Emission Reductions associated with the COVID-19 Pandemic.* Aerosol, Clouds, Precipitation and Climate (ACPC) April 2020
