@@ -38,7 +38,7 @@ G Thornhill, W Collins, D Olivié, A Archibald, S Bauer, R Checa-Garcia, S Fiedl
 
 *CRI-HOM: A novel chemical mechanism for simulating Highly Oxygenated Organic Molecules (HOMs) in global chemistry-aerosol- climate models*  Atmospheric Chemistry mechanisms - Principal Presentation, November 2020
 
-*The Effect on Climate and Atmospheric Composition from non-CO$_2$ Anthropogenic Emission Reductions associated with the COVID-19 Pandemic.* Aerosol, Clouds, Precipitation and Climate (ACPC) April 2020
+*The Effect on Climate and Atmospheric Composition from non-carbon dioxide Anthropogenic Emission Reductions associated with the COVID-19 Pandemic.* Aerosol, Clouds, Precipitation and Climate (ACPC) April 2020
 
 *CRI-HOM: A novel chemical mechanism for simulating Highly Oxygenated Organic Molecules (HOMs) in global chemistry-aerosol-climate models* Royal Society of Chemistry Environmental Chemistry Conference, October 2019
 
