@@ -12,7 +12,7 @@ I have been involved in the 6th Coupled Model Intercomparison Project (CMIP6) lo
 ### Publications
 
 *Limited climate impacts from short-lived climate forcers following emission reductions related to the COVID-19 pandemic*
-J Weber, Y M Shin, J Staunton Sykes, S Archer-Nicholls, N L Abraham and A T Archibald. Geophysical Research Letters, in discussion. 
+J Weber, Y M Shin, J Staunton Sykes, S Archer-Nicholls, N L Abraham and A T Archibald. Geophysical Research Letters. https://doi.org/10.1029/2020GL090326 
 
 *Linking Peroxy Radical Chemistry to Global Climate: The Common Representatives Intermediates Chemical Mechanism in the UK Earth System Model*
 S Archer-Nicholls, JM Weber, NL Abraham, MR Russo, C Knote, PT Griffiths, D Lowe, S Utembe, F O'Connor, O Wild, T Berndt, ME Jenkin, AT Archibald
