@@ -2,7 +2,7 @@
 ### PhD Student, Pembroke College, University of Cambridge
 https://www.ch.cam.ac.uk/person/jmw240
 
-Google Scholar Profile: https://scholar.google.com/citations?user=-ovN9g0AAAAJ&hl=en
+Google Scholar Profile: (https://scholar.google.com/citations?user=-ovN9g0AAAAJ&hl=en)
 
 
 ### Research
