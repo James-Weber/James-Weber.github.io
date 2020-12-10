@@ -30,6 +30,14 @@ https://doi.org/10.5194/acp-20-10889-2020
 G Thornhill, W Collins, D Olivié, A Archibald, S Bauer, R Checa-Garcia, S Fiedler, G Folberth, A Gjermundsen, L Horowitz, J-F Lamarque, M Michou, J Mulcahy, P Nabat, V Naik, FM O&amp;apos;Connor, F Paulot, M Schulz, CE Scott, R Seferian, C Smith, T Takemura, S Tilmes, J Weber – Atmospheric Chemistry and Physics (2020) https://doi.org/10.5194/acp-2019-1207,
 
 ### Conference Presentations
+*Minimal climate impacts from short-lived climate forcers following emission reductions related to the COVID-19 pandemic* AGU, December 2020
+
+*CRI-HOM: A novel chemical mechanism for simulating Highly Oxygenated Organic Molecules (HOMs) in global chemistry-aerosol- climate models* AGU, December 2020
+
+*Minimal climate impacts from short-lived climate forcers following emission reductions related to the COVID-19 pandemic* \Atmospheric Chemistry mechanisms - Principal Presentation, November 2020
+
+*CRI-HOM: A novel chemical mechanism for simulating Highly Oxygenated Organic Molecules (HOMs) in global chemistry-aerosol- climate models*  - Principal Presentation, November 2020
+
 *The Effect on Climate and Atmospheric Composition from non-CO$_2$ Anthropogenic Emission Reductions associated with the COVID-19 Pandemic.* Aerosol, Clouds, Precipitation and Climate (ACPC) April 2020
 
 *CRI-HOM: A novel chemical mechanism for simulating Highly Oxygenated Organic Molecules (HOMs) in global chemistry-aerosol-climate models* Royal Society of Chemistry Environmental Chemistry Conference, October 2019
